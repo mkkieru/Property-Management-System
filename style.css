@@ -1,0 +1,17 @@
+ .nav.links{
+     display: flex;
+     justify-content: space-around;
+     width: 40px;
+ } 
+ .nav.links li{
+     list-style: none;
+ } 
+#services{
+    background-image: url(./pms.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height:100vh;
+    position: relative;
+    padding-top:5rem;
+}
