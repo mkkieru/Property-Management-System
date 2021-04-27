@@ -1,0 +1,25 @@
+body{
+    padding:0;
+    margin:0;
+    background-image: url("/bg.jpeg");
+    color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.info{
+    text-align: right;
+    text-decoration: none;
+    box-sizing:border-box;
+    margin-right: 3rem;
+    padding-top: 2rem;
+    display: block;
+
+    
+}
+.info a:hover{
+    cursor: pointer;
+    color:black;
+    transition: 3px;
+    
+}
