@@ -1,8 +1,8 @@
 body{
     padding:0;
     margin:0;
-    background-image: url("/bg.jpeg");
-    color: black;
+    background-image: url("./bg2.jpeg");
+    color:black;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -22,4 +22,12 @@ body{
     color:black;
     transition: 3px;
     
+}
+//*#trial{
+    background-image: url("./hse1.jpeg");
+    background-repeat: no-repeat;
+    height:700px;
+    width: 500px;
+
+
 }
