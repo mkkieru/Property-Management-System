@@ -1,0 +1,9 @@
+.contact{
+    position: relative;
+    min: height 200px;
+    padding: auto;
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+    background-image: url(/pms1.jpeg);
+    background-repeat: no-repeat;
